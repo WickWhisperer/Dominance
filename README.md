@@ -1,2 +1,2 @@
-# Dominance
+# Dominance Blockchain
 NewAge Blockchain
